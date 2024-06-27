@@ -55,10 +55,11 @@
                         <button id="printPageButton" onclick="window.print()"
                             class="w-100 btn btn-lg btn-outline-primary">Print</button>
                     </div>
-
                 </div>
             </div>
         </div>
+
+
     </main>
     <!-- Optional JavaScript; choose one of the two! -->
 
